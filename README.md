@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nirajan Chaudhary</h1>
+<h1 align="center">Hi 👋, I'm Nirajan Chaudhary.</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt="coding " width="400px" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200w.gif?cid=6c09b952c5mpzr88sy5cge2511mrpjrnguq7lk2wfyea8jop&ep=v1_gifs_search&rid=200w.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajanchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="nirajanchaudhary" /> </p>
