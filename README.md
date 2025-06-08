@@ -1,7 +1,8 @@
-<!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/IrWx1dT.png" alt="Nirajan Chaudhary - Web Developer" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0CF1E7&width=900&lines=%F0%9F%91%8B+Hi,+I'm+Nirajan;Frontend+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+Responsive+%26+Modern+Web+Apps" />
 </p>
+
+
 
 <h1 align="center">Hi 👋, I'm Nirajan Chaudhary</h1>
 <h3 align="center">🚀 Frontend Developer | Backend Explorer | Web Technology Enthusiast from Nepal 🇳🇵</h3>
