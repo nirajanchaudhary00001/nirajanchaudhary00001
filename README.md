@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nirajan Chaudhary</h1>
-<h3 align="center">🚀 Frontend Developer | Backend Explorer | Web Technology Enthusiast from Nepal 🇳🇵</h3>
+<h3 align="center">🚀 Full Stack Developer | Backend Explorer | Web Technology Enthusiast from Nepal 🇳🇵</h3>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200w.gif" width="250" />
